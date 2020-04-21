@@ -1,0 +1,16 @@
+{
+  "name": "@webfaaslabs/math",
+  "version": "0.0.1",
+  "description": "math functions",
+  "category": "labs",
+  "main": "src/lib",
+  "schema": "src/schema",
+  "scripts": {
+    "test": "node src/test/sum"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
