@@ -1,6 +1,6 @@
 {
   "name": "@webfaaslabs/math",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "math functions",
   "category": "labs",
   "main": "src/lib",
